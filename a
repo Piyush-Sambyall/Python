@@ -1,0 +1,10 @@
+QWERTand for write and read at the same time
+1st we need to use file.write to add some text then
+file.read() to print all lines of the file
+a+ stand for append and read the file
+1st file.write to append some some lines in the file then
+then use file.seek(0) to set the pointer at the start of the file
+after that use print(file.read())a+ stand for append and read the file
+1st file.write to append some some lines in the file then
+then use file.seek(0) to set the pointer at the start of the file
+after that use print(file.read())QWERTABC
