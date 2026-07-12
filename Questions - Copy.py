@@ -1,38 +1,38 @@
-# Q:1 calculate the square of 86
-#print(86**2)
+ Q:1 calculate the square of 86
+print(86**2)
 
-# Q:2 calculate the cuberoot of 785
-#print(785**(1/3))
+ Q:2 calculate the cuberoot of 785
+print(785**(1/3))
 
-# Q:3 15908 min convert those min into hours and min
-#min=15908
-#hours=min//60
-#min_left=min-(hours*60)
-#print("{} hours and {} minutes".format(hours,min_left))
+Q:3 15908 min convert those min into hours and min
+min=15908
+hours=min//60
+min_left=min-(hours*60)
+print("{} hours and {} minutes".format(hours,min_left))
 
-# Q:4 154783 hours convert those hours into days hours
-#hours=154783
-#days=hours//24
-#hours_left=hours-(days*24)
-#print("{} days and {} hours".format(days,hours_left))
+Q:4 154783 hours convert those hours into days hours
+hours=154783
+days=hours//24
+hours_left=hours-(days*24)
+print("{} days and {} hours".format(days,hours_left))
 
-# Q:5 h="95" change the datatype of h into (int or float )
-#h="95"
-#print(type(h))
-#h=int(h)
-#print(type(h))
+Q:5 h="95" change the datatype of h into (int or float )
+h="95"
+print(type(h))
+h=int(h)
+print(type(h))
 
-# Q:6 use user input to asign float value to p and check the type of p
-#p=float(input("Enter value:"))
-#print(type(p))
+Q:6 use user input to asign float value to p and check the type of p
+p=float(input("Enter value:"))
+print(type(p))
 
-# Q:7 sec_784569324 #217935 hrs 55min 24 sec
-#total_sec=784569324
-#total_min=total_sec//60
-#total_hour=total_min//60
-#actual_min=total_min-(total_hour*60)
-#actual_sec=total_sec-(total_min*60)
-#print("{} hours {} minutes and {} sec".format(total_hour,actual_min,actual_sec))
+Q:7 sec_784569324 #217935 hrs 55min 24 sec
+total_sec=784569324
+total_min=total_sec//60
+total_hour=total_min//60
+actual_min=total_min-(total_hour*60)
+actual_sec=total_sec-(total_min*60)
+print("{} hours {} minutes and {} sec".format(total_hour,actual_min,actual_sec))
 
 # Q:8 min_14754698 #10246 days 7hrs 38min
 #min=14754698
