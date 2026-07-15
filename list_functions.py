@@ -60,6 +60,19 @@ print(w)
 w.sort(reverse=True)
 print(w)
 
+# pop can also remove value from any specified index
+
+w.pop(0)
+print(w) #-> 4 is removed
+
+# add more than 1 element at the end of the list
+w.extend([200,400,600])
+print(w)
+
+# removes the given element 
+w.remove(2)
+print(w)
+
 # makes a copy of the list
 n_list=w.copy()
 print(n_list)
